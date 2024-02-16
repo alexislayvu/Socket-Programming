@@ -26,4 +26,4 @@
 
 
 ## Example
-<img width="1440" alt="Screenshot 2024-02-15 at 9 18 58 PM" src="https://github.com/alexislayvu/Socket-Programming/assets/54639928/a3ec8c1e-9e51-4e81-af8e-54b2d34fc053">
+<img width="1440" alt="Screenshot 2024-02-15 at 9 24 21 PM" src="https://github.com/alexislayvu/Socket-Programming/assets/54639928/3835c3cc-041a-4744-8974-e50086ec5f61">
