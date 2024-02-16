@@ -1,5 +1,5 @@
 # Socket Programming
-### Implementation of a simplified FTP server and FTP client.
+### Implementation of a simplified FTP server and client.
 
 
 ## Collaborators
